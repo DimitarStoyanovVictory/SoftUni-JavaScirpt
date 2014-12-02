@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\bin\TestingJS.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\bin\TestingJS.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\bin\TestingJS.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\obj\Debug\TestingJS.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\obj\Debug\TestingJS.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\TestingJS\obj\Debug\TestingJS.pdb

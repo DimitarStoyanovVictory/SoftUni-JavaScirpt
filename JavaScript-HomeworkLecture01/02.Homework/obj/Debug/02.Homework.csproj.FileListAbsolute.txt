@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\bin\02.Homework.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\bin\02.Homework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\bin\02.Homework.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\obj\Debug\02.Homework.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\obj\Debug\02.Homework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecture01\02.Homework\obj\Debug\02.Homework.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Problem02</title>
+</head>
+    <body>
+        <div>first div</div>
+        <div>second div</div>
+        <div class="empty"></div>
+        <div id="a">third div<div id="b">inner div</div></div>
+        <ul id="result"></ul>
+        <script src="jquery-2.1.1.min.js"></script>
+        <script>
+            var divs = document.getElementsByTagName('div');
+            for (var i = 0; i < divs.length; i++) {
+                if (divs[i].innerText != '') {
+                    var li = document.createElement('li');
+                    li.innerText = divs[i].innerText;
+                    $(li).appendTo('#result');
+                }
+            }
+        </script>
+    </body>
+</html>

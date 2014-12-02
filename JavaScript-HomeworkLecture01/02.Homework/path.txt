@@ -1,0 +1,1 @@
+﻿"C:\Program Files"\node.js" "C:\Users\User\Documents\Visual Studio 2013\Projects\JavaScript-HomeworkLecutre01\02.Homework\numbers1to10.js"
